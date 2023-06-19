@@ -8,10 +8,6 @@ This repository provides the code structure for a basic Calculator app developed
 - Clear the current calculation and start a new one.
 - Handle decimal numbers and complex calculations.
 
-## Screenshots
-
-![Calculator App Screenshots](screenshots.png)
-
 ## Getting Started
 
 To get started with the Calculator app, follow these steps:
